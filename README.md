@@ -1,4 +1,4 @@
-### Hello, my name is Yazeed Al Zeidi <img src="https://github.com/darshanr27/darshanr27/blob/master/Assets/Hi.gif" width="22px">
+### Hello, my name is Yazeed <img src="https://github.com/darshanr27/darshanr27/blob/master/Assets/Hi.gif" width="22px">
 
 ---
 
