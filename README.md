@@ -1,11 +1,11 @@
-### Hello, my name is Yazeed <img src="https://github.com/darshanr27/darshanr27/blob/master/Assets/Hi.gif" width="22px">
+### Hey, I'm Mifed width="22px">
 
 ---
 
 <br />
 
-- I am Python, discord.py, pycord
-- Still learning JavaScript, HTML, CSS
+- I am Python developer
+- Still learning
 
 <br />
 
